@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/adam/tiago_ws/install/tiago_msgs/local/lib/python3.10/dist-packages",
+        "/home/adam/tiago_ws/install/tiago_description/local/lib/python3.10/dist-packages",
+        "/home/adam/tiago_ws/install/tasker_msgs/local/lib/python3.10/dist-packages",
+        "/home/adam/tiago_ws/install/tasker/local/lib/python3.10/dist-packages",
+        "/home/adam/tiago_ws/install/rcprg_kb/local/lib/python3.10/dist-packages",
+        "/home/adam/tiago_ws/install/pmb2_description/local/lib/python3.10/dist-packages",
+        "/home/adam/ros2_ws/build/ros2bag_tools",
+        "/home/adam/ros2_ws/install/ros2bag_tools/lib/python3.10/site-packages",
+        "/home/adam/ros2_ws/build/rosbag2_tools",
+        "/home/adam/ros2_ws/install/rosbag2_tools/lib/python3.10/site-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/ur_moveit_demo_msg/local/lib/python3.10/dist-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/build/o3de_fleet_nav",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/o3de_fleet_nav/lib/python3.10/site-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/adam/projects/ROSCon2023Demo/ros2_ws/install/blind_path_follower_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
